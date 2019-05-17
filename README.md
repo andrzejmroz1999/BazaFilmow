@@ -1,7 +1,7 @@
 # BazaFilmow
 Opis: Pozwala na wyświetlanie filmów,aktorów z tabel z przykładowej bazy danych(filmy,aktorzy,film_aktor),
 wyszukiwanie aktora, filmu. Wyświetla aktorów którzy wystąpili w danym filmie oraz jego opisu,filmów w których wystąpił
-wybrany aktor. Aplikacja napisana przy użyciu technologii WPF.
+wybrany aktor. Aplikacja napisana przy użyciu technologii WPF, MySqlWorkbench.
 
 ## Ekran logowania:               
 <img src = "Images/EkranLogowania.PNG" width="200" height ="300"> 
