@@ -1,6 +1,6 @@
 # BazaFilmow
 Opis: Pozwala na wyświetlanie filmów,aktorów z tabel z przykładowej bazy danych(filmy,aktorzy,film_aktor),
-Wyszukiwanie aktora,filmu.Pokazanie aktorów którzy wystąpili w danym filmie oraz jego opisu,filmów w których wystąpił
+wyszukiwanie aktora, filmu. Wyświetla aktorów którzy wystąpili w danym filmie oraz jego opisu,filmów w których wystąpił
 wybrany aktor. Aplikacja napisana przy użyciu technologii WPF.
 
 ## Ekran logowania:               
